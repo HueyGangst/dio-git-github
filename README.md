@@ -9,7 +9,8 @@ Repositório para armzenar resumos sobre Git e Github do curso vesionamento de c
 
 | Aulas | Resumos|
 |-------|--------|
-| Gravando Alterações no Repositório Local| [Resumo] ()|
+| Aula 01| [Resumo] ()|
+| Aula 02| [Resumo] ()|
 
 ```
 git init
